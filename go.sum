@@ -28,8 +28,8 @@ github.com/cespare/xxhash v1.1.0/go.mod h1:XrSqR1VqqWfGrhpAt58auRo0WTKS1nRRg3ghf
 github.com/client9/misspell v0.3.4/go.mod h1:qj6jICC3Q7zFZvVWo7KLAzC3yx5G7kyvSDkc90ppPyw=
 github.com/core-go/config v0.1.0 h1:PT9t/UrhNFo5tB0s45Ed99R6Lx3ibRwA2SdjNjbRCA0=
 github.com/core-go/config v0.1.0/go.mod h1:Pqxosu8ryByLKWyV6tDiwY+JAJc+YSlFy6MzQRFDO+g=
-github.com/core-go/io v0.0.5 h1:zdcj4c3C0WQ0VxFQWnHww0YVU2Pit5xSxqNSWjmAF0o=
-github.com/core-go/io v0.0.5/go.mod h1:vwkZ3v+6pewHUpei/Kip90MVrHM5EWgQm5wz/h2PVHI=
+github.com/core-go/io v0.0.9 h1:t09wR/rNhBrrC9naeDOIq5OD9VuGAkufs+t3EhduL+A=
+github.com/core-go/io v0.0.9/go.mod h1:vwkZ3v+6pewHUpei/Kip90MVrHM5EWgQm5wz/h2PVHI=
 github.com/coreos/bbolt v1.3.2/go.mod h1:iRUV2dpdMOn7Bo10OQBFzIJO9kkE559Wcmn+qkEiiKk=
 github.com/coreos/etcd v3.3.13+incompatible/go.mod h1:uF7uidLiAD3TWHmW31ZFd/JWoc32PjwdhPthX9715RE=
 github.com/coreos/go-semver v0.3.0/go.mod h1:nnelYz7RCh+5ahJtPPxZlU+153eP4D4r3EedlOD2RNk=
